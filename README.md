@@ -7,11 +7,11 @@ A **Python-based interactive dashboard** to analyze and predict student performa
 ## Features
 
 - 📊 **Visualizations**
-  - GPA Distribution by major
-  - Average scores by major
-  - Study hours vs GPA
+  - GPA Distribution by Major
+  - Average Scores by Major
+  - Study Hours vs GPA
   - Attendance vs GPA
-  - Correlation heatmap
+  - Correlation Heatmap
 - 🎯 **GPA Prediction**
   - Predict GPA based on Math, Science, English scores, attendance rate, and study hours per week.
 
@@ -30,8 +30,8 @@ A **Python-based interactive dashboard** to analyze and predict student performa
 ## Project Structure
 
 Workshop/
-│── Project.ipynb 
-│── class.ipynb 
+│── Project.ipynb
+│── class.ipynb
 │── student_dashboard.py
 │── student_performance_data.csv
 
