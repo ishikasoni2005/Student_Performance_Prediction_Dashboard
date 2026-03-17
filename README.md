@@ -14,7 +14,7 @@ Users can interact with visual analytics and generate **real-time GPA prediction
 
 ---
 
-# ✨ Features
+# ✨Features
 
 ## 📊 Data Visualization
 Interactive charts to explore student performance trends:
